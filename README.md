@@ -211,12 +211,4 @@ docs/DEMO_READINESS_VI.md       tiêu chí Go/No-Go trước khi trình chiếu
 Pipeline xe máy cũ trong `src/detect.py` và `app/demo_app.py` vẫn được giữ để
 tham khảo, nhưng không phải entrypoint của demo lớp học.
 
-## Quyền riêng tư và giấy phép
 
-Ảnh khuôn mặt và MSSV là dữ liệu cá nhân/sinh trắc học: cần sự đồng ý của người
-tham gia, không đưa lên Git công khai và xóa theo thời hạn đã thống nhất. `.gitignore`
-đã chặn mặc định các ảnh đăng ký mới và lịch sử runtime.
-
-Nguồn/license model được ghi trong `NOTICE.md`, các tệp license nằm cạnh model
-và checksum nằm trong `models/MODEL_MANIFEST.json`. Quyền phân phối checkpoint
-mũ/dataset gốc vẫn cần chủ project xác nhận trước khi xuất bản công khai.
