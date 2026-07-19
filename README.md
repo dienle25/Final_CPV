@@ -27,9 +27,9 @@ lưu ảnh bằng chứng và xuất lịch sử CSV/Excel.
 |---|---|---:|
 | CE182206 | Nguyễn Thị Bích Tuyền | 1 |
 | CE190579 | Lê Thanh Điền | 21 |
-| CE190625 | Lữ Phú Quý | 1 |
-| CE191641 | Nguyễn Hiếu Thành | 1 |
-| CE190256 | Trần Khoa Đăng | 1 |
+| CE190625 | Lữ Phú Quý | 15 |
+| CE191641 | Nguyễn Hiếu Thành | 15 |
+| CE190256 | Trần Khoa Đăng | 15 |
 
 CE190579 đã có 1 ảnh thẻ và 20 khung đa góc từ video đăng ký. Bốn sinh viên còn
 lại chỉ có 1 ảnh chân dung/người, vì vậy **chưa sẵn sàng cho demo nhận diện năm
