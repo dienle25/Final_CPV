@@ -1,0 +1,11 @@
+ultralytics>=8.3,<9
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+torch>=2.3
+torchvision>=0.18
+streamlit>=1.40,<2
+pandas>=2.2,<3
+PyYAML>=6,<7
+python-dotenv>=1,<2
+Pillow>=10,<13
+lap>=0.5.12

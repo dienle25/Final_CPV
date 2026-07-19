@@ -1,0 +1,11 @@
+# Runtime da kiem thu cho demo lop hoc tren Windows, Python 3.11/3.12.
+# PyTorch/Ultralytics khong can thiet: cac mo hinh duoc chay bang ONNX Runtime.
+numpy==2.3.5
+opencv-python==4.11.0.86
+onnxruntime-directml==1.24.4; platform_system == "Windows"
+onnxruntime==1.24.4; platform_system != "Windows"
+streamlit==1.59.2
+pandas==3.0.1
+Pillow==12.2.0
+openpyxl==3.1.5
+

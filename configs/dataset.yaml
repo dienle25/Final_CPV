@@ -1,0 +1,6 @@
+train: ../data/helmet_3class/train/images
+val: ../data/helmet_3class/valid/images
+test: ../data/helmet_3class/test/images
+
+nc: 3
+names: ['helmet', 'no_helmet', 'rider']

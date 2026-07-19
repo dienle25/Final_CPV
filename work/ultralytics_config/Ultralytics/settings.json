@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\ASUS\\Documents\\Codex\\2026-07-19\\datasets",
+  "weights_dir": "C:\\Users\\ASUS\\Documents\\Codex\\2026-07-19\\github-plugin-github-openai-curated-remote\\weights",
+  "runs_dir": "C:\\Users\\ASUS\\Documents\\Codex\\2026-07-19\\github-plugin-github-openai-curated-remote\\runs",
+  "uuid": "6449fbbf58c4824fe998985775083fd22a448dd32a9c889b1a5a925d19be7cae",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": false
+}

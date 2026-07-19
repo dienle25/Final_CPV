@@ -1,0 +1,8 @@
+*.pt binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.mp4 binary
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf

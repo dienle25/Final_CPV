@@ -1,0 +1,51 @@
+# Fluent-inspired light theme tuned for an offline Windows classroom demo.
+# Built-in fonts avoid depending on Google Fonts during the presentation.
+
+[theme]
+base = "light"
+primaryColor = "#0067B8"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6F9"
+codeBackgroundColor = "#EEF2F6"
+textColor = "#17202A"
+linkColor = "#0067B8"
+borderColor = "#D5DCE3"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "8px"
+buttonRadius = "8px"
+font = "sans-serif"
+codeFont = "monospace"
+baseFontSize = 15
+headingFontSizes = ["2rem", "1.5rem", "1.25rem", "1rem", "0.9rem", "0.8rem"]
+headingFontWeights = [650, 650, 600, 600, 600, 600]
+linkUnderline = false
+blueColor = "#0067B8"
+greenColor = "#107C10"
+redColor = "#C42B1C"
+yellowColor = "#F7C948"
+orangeColor = "#CA5010"
+violetColor = "#744DA9"
+grayColor = "#5F6B76"
+chartCategoricalColors = ["#0067B8", "#107C10", "#CA5010", "#744DA9", "#C42B1C", "#038387", "#5F6B76"]
+dataframeBorderColor = "#D5DCE3"
+dataframeHeaderBackgroundColor = "#F3F6F9"
+
+[theme.sidebar]
+backgroundColor = "#F3F6F9"
+secondaryBackgroundColor = "#E8EEF4"
+codeBackgroundColor = "#E3EAF1"
+textColor = "#17202A"
+borderColor = "#D5DCE3"
+primaryColor = "#0067B8"
+dataframeHeaderBackgroundColor = "#E8EEF4"
+dataframeBorderColor = "#D5DCE3"
+
+[server]
+headless = true
+maxUploadSize = 512
+enableXsrfProtection = true
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"
